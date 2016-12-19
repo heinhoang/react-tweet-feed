@@ -1,4 +1,7 @@
 {
+  "name": "react-tweet-feed",
+  "version": "1.0.0",
+  "description": "",
   "private": true,
   "engines": {
     "node": ">=6.5",
